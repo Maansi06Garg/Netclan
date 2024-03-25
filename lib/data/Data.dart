@@ -50,8 +50,8 @@ var person=[
     "Software Developer",
     "lib/assets/person6.png",
     "Hi This is Aditya Patel an enthusiastic Software Developer in Bangalore",
-    "Bangalore"
-        "University",
+    "Bangalore",
+    "University",
     "B.tech | Cs",
     "2015-2019",
   ],
